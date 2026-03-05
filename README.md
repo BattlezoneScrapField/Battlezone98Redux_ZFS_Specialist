@@ -7,9 +7,11 @@ A high-performance archive explorer and packer for Battlezone (1998) `.zfs` file
 * **Instant Search:** Filter thousands of files by name or extension in real-time.
 * **Smart Packing:** Build new ZFS archives with LZO1X-1 compression.
 * **XOR Crypto:** MakeZFS-compatible encrypted archive extraction.
+* **XOR Reverse:** Extract files from encrypted ZFS archives even without a key. 
 * **Portable:** Standalone EXE (no Python installation required).
 
-* <img width="1002" height="732" alt="image" src="https://github.com/user-attachments/assets/709805d7-14cf-40d2-9237-9acd845f2b0f" />
+<img width="1002" height="732" alt="image" src="https://github.com/user-attachments/assets/764b8665-3abb-4fc6-9086-643594269945" />
+
 
 
 ## Installation & Usage
